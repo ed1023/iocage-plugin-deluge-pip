@@ -9,7 +9,7 @@ mkdir /Downloads
 chown deluge:deluge /Downloads
 
 # Install the packages
-pip install --upgrade pip
+# pip install --upgrade pip
 pip install deluge
 
 # Install fix for https://dev.deluge-torrent.org/ticket/3278
